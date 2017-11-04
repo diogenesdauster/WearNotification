@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WearNotification</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_view_event">ViewEventActivity</string>
+    <string name="title_activity_standard">StandardActivity</string>
+    <string name="title_activity_big_picture">BigPictureActivity</string>
+</resources>
